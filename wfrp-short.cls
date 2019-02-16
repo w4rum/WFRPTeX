@@ -22,7 +22,6 @@
 \RequirePackage[T1]{fontenc}
 \RequirePackage{librecaslon}
 \RequirePackage{wfrp}
-\RequirePackage[toc]{multitoc}
 \RequirePackage{parskip}
 \RequirePackage[explicit]{titlesec}
 
